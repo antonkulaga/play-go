@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaProjectSettings">
+    <option name="autoRunDelay" value="1874" />
+    <option name="scFileMode" value="Ammonite" />
+  </component>
+  <component name="WorksheetDefaultProjectSettings">
+    <option name="compilerProfileName" value="sbt 1" />
+    <option name="moduleName" value="play-go" />
+  </component>
+</project>
